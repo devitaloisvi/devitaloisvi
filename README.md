@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devitaloisvi
 - 👀 I’m interested in web
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on apps
 - 📫 How to reach me devitaloisvi/
 
